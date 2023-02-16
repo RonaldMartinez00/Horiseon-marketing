@@ -58,7 +58,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("http://127.0.0.1:5500/01-HTML-Git-CSS/02-Challenge/Develop/assets/images/digital-marketing-meeting.jpg");
+    background-image:  url("http://127.0.0.1:5500/01-HTML-Git-CSS/02-Challenge/Develop/assets/images/digital-marketing-meeting.jpg"); alt:"image of man showing leading a meeting.";
     background-size: cover;
     background-position: center;
 } 
